@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Fishing Planet® is a highly realistic first-person online multiplayer fishing simulator. Developed by avid fishing enthusiasts to bring you the full thrill of actual angling on your PC. Free-to-Play and just a download away!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 / Rec: Windows 11 | 12 Monterey or later |
+| **Processor** | Min: Intel Core i3-10100 or AMD Ryzen 3 3100 / Rec: Intel Core i7-12700 or AMD Ryzen 7 7700 | Apple Silicon (M1 or later) |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 1050/AMD Radeon RX 570 or higher / Rec: NVIDIA GeForce RTX 4060 or AMD Radeon RX 7700 XT | Apple M1 integrated GPU or better |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 14 GB available space | 14 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | External mouse or compatible XBOX/PlayStation controlle… | External mouse or compatible XBOX/PlayStation controlle… |
 
 ---
 
